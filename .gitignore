@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+Procfile
+dev.bash
+mylinebot/settings.py
+
 # C extensions
 *.so
 
